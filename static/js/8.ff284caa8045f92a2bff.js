@@ -1,0 +1,2 @@
+webpackJsonp([8],{V7PG:function(e,t){},odg4:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement;return(this._self._c||e)("p",{staticClass:"page-container"},[this._v("玩命开发中。。。")])},staticRenderFns:[]};var r=n("VU/8")(null,a,!1,function(e){n("V7PG")},"data-v-32c568a4",null);t.default=r.exports}});
+//# sourceMappingURL=8.ff284caa8045f92a2bff.js.map
